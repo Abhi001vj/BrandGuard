@@ -1,0 +1,8 @@
+{
+  "name": "BrandGuard AI",
+  "description": "AI-assisted creative deliverable review platform for Managers and Editors. Automated brand compliance checks, visual annotations, and structured feedback loops.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
